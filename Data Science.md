@@ -79,7 +79,7 @@ Practice:
 
 ## Power Bi
 
-Paid(mandatory/recommended)-[click Here](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/)
+Paid(recommended)-[click Here](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/)
 
 Unpaid(for reference)-[Click Here](https://learn.microsoft.com/en-us/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm)
 

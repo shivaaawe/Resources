@@ -116,6 +116,7 @@ Note: For students who are opting for unpaid resources should match their topic 
 | 13 | (Python paid course)Milestone Project-I | Milestone Project-I(Python paid course)Milestone Project-I | Advanced SQL commands |
 | 14 | (Python paid course)Milestone Project-I | (Python paid course)Milestone Project-I | Advanced SQL commands |
 | 15 | (Python paid course)Milestone Project-I | (Python paid course)Milestone Project-I | (SQL paid Course)Assignment II |
+LEVEL-I Completed (Bronze)
 | 16 | Object Oriented Programming | Object Oriented Programming | (SQL paid Course)Assignment II |
 | 17 | Object Oriented Programming | Object Oriented Programming | (SQL paid Course)Assignment II |
 | 18 | Object Oriented Programming | Object Oriented Programming | (SQL paid Course)Assignment II |
@@ -134,6 +135,7 @@ Note: For students who are opting for unpaid resources should match their topic 
 | 31 | Advanced Python modules | Advanced Python modules | (Hackerrank)SQL practice |
 | 32 | Advanced Python modules | Advanced Python modules | (Hackerrank)SQL practice |
 | 33 | Advanced Python modules | Advanced Python modules | (Hackerrank)SQL practice |
+LEVEL-II Completed (Silver)
 | 34 | Web Scraping | Web Scraping | (Hackerrank)SQL practice |
 | 35 | Web Scraping | Web Scraping | (Hackerrank)SQL practice |
 | 36 | Web Scraping | Web Scraping | (Hackerrank)SQL practice |
@@ -151,6 +153,7 @@ Note: For students who are opting for unpaid resources should match their topic 
 | 54 | Coding Practice | Connecting and Shaping Data | 3rd video |
 | 55 | Coding Practice | Connecting and Shaping Data | 4th video |
 | 56 | Coding Practice | Connecting and Shaping Data | 5th video |
+LEVEL-III Completed (Gold)
 | 57 | Coding Practice | Creating Tables and Relations | 6th video  |
 | 58 | Coding Practice | Creating Tables and Relations | 7th video  |
 | 59 | Coding Practice | Creating Tables and Relations | 8th video  |
@@ -161,4 +164,5 @@ Note: For students who are opting for unpaid resources should match their topic 
 | 70-75 | Coding Practice | Visualize | Videos in Intermediate Excel |
 | 76-80 | Coding Practice | Capstone Project | Videos in Intermediate Excel |
 | 81-90 | BUFFER | BUFFER | BUFFER |
-| 91-100 | Mini project | Mini project | Mini project |
+| 91-100 | Mini project | Mini project | Mini project |  
+LEVEL-IV Completed (Platinum)

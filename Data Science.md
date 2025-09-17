@@ -57,7 +57,7 @@ Since childhood, we were accustomed to writing notes on paper. But you cannot ef
 
 Paid(recommended)-[click Here](https://www.udemy.com/course/complete-python-bootcamp/)
 
-Unpaid-[click Here](https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
+Unpaid-[click Here](https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg) / [Javatpoint](https://www.tpointtech.com/python-tutorial)
 
 Book(mandatory)-[click Here](https://automatetheboringstuff.com/)
 

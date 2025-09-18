@@ -60,12 +60,12 @@ Since childhood, we were accustomed to writing notes on paper. But you cannot ef
 - Everyone has to utilize notion as their note-taking tool.
 
 # Resources
-
+# Unpaid - [Data Analysis](https://www.geeksforgeeks.org/batch/da-skill-up?tab=Chapters)
 ## Python
 
 Paid(recommended)-[click Here](https://www.udemy.com/course/complete-python-bootcamp/)
 
-Unpaid-[click Here](https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg) / [Javatpoint](https://www.tpointtech.com/python-tutorial)
+Unpaid-[click Here](https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg) / [Click Here](https://www.tpointtech.com/python-tutorial)
 
 Book(mandatory)-[click Here](https://automatetheboringstuff.com/)
 

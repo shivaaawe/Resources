@@ -60,7 +60,7 @@ Since childhood, we were accustomed to writing notes on paper. But you cannot ef
 - Everyone has to utilize notion as their note-taking tool.
 
 # Resources
-# Unpaid - [Data Analysis](https://www.geeksforgeeks.org/batch/da-skill-up?tab=Chapters)
+## Unpaid - [Data Analysis](https://www.geeksforgeeks.org/batch/da-skill-up?tab=Chapters)
 ## Python
 
 Paid(recommended)-[click Here](https://www.udemy.com/course/complete-python-bootcamp/)

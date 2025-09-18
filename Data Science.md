@@ -4,10 +4,11 @@
 ## <h3> 💯 #100DaysOfDataScience </h3>
 <p> This is an intitiation which is for freshers and any person who wishes to learn any technology with a roadmap, resources, practical experience, and guidence/mentorship. </p>
 ✨ The journey is structured into 4 milestone stages to track your progress:
-🥉 Bronze 
-🥈 Silver 
-🥇 Gold 
-💎 Platinum 
+<li>
+ <ul>🥉 Bronze</ul> 
+<ul>🥈 Silver </ul>
+<ul>🥇 Gold </ul> 
+<ul>💎 Platinum</ul> 
 
 Whether you’re starting new or leveling up, this challenge ensures consistent growth with clear goals and support 🚀
 
@@ -123,7 +124,7 @@ Note: For students who are opting for unpaid resources should match their topic 
 | 13 | (Python paid course)Milestone Project-I | Milestone Project-I(Python paid course)Milestone Project-I | Advanced SQL commands |
 | 14 | (Python paid course)Milestone Project-I | (Python paid course)Milestone Project-I | Advanced SQL commands |
 | 15 | (Python paid course)Milestone Project-I | (Python paid course)Milestone Project-I | (SQL paid Course)Assignment II |
-| | LEVEL-I (Bronze) | |
+| | |LEVEL-I (Bronze)| | |
 | 16 | Object Oriented Programming | Object Oriented Programming | (SQL paid Course)Assignment II |
 | 17 | Object Oriented Programming | Object Oriented Programming | (SQL paid Course)Assignment II |
 | 18 | Object Oriented Programming | Object Oriented Programming | (SQL paid Course)Assignment II |
@@ -142,7 +143,6 @@ Note: For students who are opting for unpaid resources should match their topic 
 | 31 | Advanced Python modules | Advanced Python modules | (Hackerrank)SQL practice |
 | 32 | Advanced Python modules | Advanced Python modules | (Hackerrank)SQL practice |
 | 33 | Advanced Python modules | Advanced Python modules | (Hackerrank)SQL practice |
-| | LEVEL-II (Silver) | |
 | 34 | Web Scraping | Web Scraping | (Hackerrank)SQL practice |
 | 35 | Web Scraping | Web Scraping | (Hackerrank)SQL practice |
 | 36 | Web Scraping | Web Scraping | (Hackerrank)SQL practice |
@@ -152,6 +152,7 @@ Note: For students who are opting for unpaid resources should match their topic 
 | 40 | Project III | Project III | (Hackerrank)SQL practice |
 | 41 | Project IV | Project IV | (Hackerrank)SQL practice |
 | 42 | Project V | Project V | (Hackerrank)SQL practice |
+| | | LEVEL-II (Silver) | | |
 | 43-49 | BUFFER | BUFFER | BUFFER |
 | 50 | Coding Practice | Power Bi-setup | Excel-1st video |
 | 51 | Coding Practice | Introduction to Power Bi | Excel-1st video |
@@ -160,16 +161,16 @@ Note: For students who are opting for unpaid resources should match their topic 
 | 54 | Coding Practice | Connecting and Shaping Data | 3rd video |
 | 55 | Coding Practice | Connecting and Shaping Data | 4th video |
 | 56 | Coding Practice | Connecting and Shaping Data | 5th video |
-| | LEVEL-III (Gold) | |
 | 57 | Coding Practice | Creating Tables and Relations | 6th video  |
 | 58 | Coding Practice | Creating Tables and Relations | 7th video  |
 | 59 | Coding Practice | Creating Tables and Relations | 8th video  |
 | 60 | Coding Practice | Creating Tables and Relations | 9th video  |
 | 61 | Coding Practice | Creating Tables and Relations | 10th video |
 | 62 | Coding Practice | Creating Tables and Relations | 11th video |
+| | | LEVEL-III (Gold) | | |
 | 63-70 | Coding Practice | DAX | Videos in Intermediate Excel |
 | 70-75 | Coding Practice | Visualize | Videos in Intermediate Excel |
 | 76-80 | Coding Practice | Capstone Project | Videos in Intermediate Excel |
 | 81-90 | BUFFER | BUFFER | BUFFER |
 | 91-100 | Mini project | Mini project | Mini project |  
-| | LEVEL-IV (Platinum) | |
+| | | LEVEL-IV (Platinum) | | |

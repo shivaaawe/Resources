@@ -3,6 +3,13 @@
 
 ## <h3> 💯 #100DaysOfDataScience </h3>
 <p> This is an intitiation which is for freshers and any person who wishes to learn any technology with a roadmap, resources, practical experience, and guidence/mentorship. </p>
+✨ The journey is structured into 4 milestone stages to track your progress:
+🥉 Bronze 
+🥈 Silver 
+🥇 Gold 
+💎 Platinum 
+
+Whether you’re starting new or leveling up, this challenge ensures consistent growth with clear goals and support 🚀
 
 ## Mentor Details:
 

@@ -134,6 +134,10 @@ As of now you have some knowledge of HTML, CSS. Start building ***projects***. I
 
 ---
 
+### Day 20 - ***NEW MILESTONE*** - 🥉 Great job! You've successfully reached Level - I (Bronze Level). Keep learning to unlock more levels.
+
+---
+
 ### <u>*Day 21-30*</u>
 Now, you have basic understanding of how to structure elements in web browser and styling them using HTML & CSS. Now it's time for Javascript (JS).
 
@@ -262,6 +266,14 @@ Going through their official documentations is really enough for knowing how to 
 
 ---
 
+### Day 50 - ***ANOTHER MILESTONE*** - 🥈 Great job! You've successfully reached Level - II (Silver Level). 
+
+---
+
+### Now that you've completed the basics of frontend, Start your backend development journey from the <a href="https://github.com/e-DAMCommunity/Resources/blob/main/BackEndDev.md">Backend Web Development RoadMap</a>, reach more levels, and progress in your full-stack development journey.
+
+---
+
 **_Remember :_**
 
 This is just a detailed roadmap we provided.\
@@ -276,4 +288,5 @@ Don't try to remember codes, styles, tags etc. There is no need of remembering t
 	<div><b>Backend Web Development Complete Roadmap : </b></div>
 	<a href="https://github.com/e-DAMCommunity/Resources/blob/main/BackEndDev.md">Backend Web Development RoadMap</a>
 </div>
+
 

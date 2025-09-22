@@ -105,15 +105,15 @@ Note: For students who are opting for unpaid resources should match their topic 
 - In the case of SQL-Read 3 topics daily and regularly practice
 - In the case of Power Bi- Complete a module within 10 days.
 Projects for students who are opting for unpaid resources.
-## Milestone Project-I
-## 1. Student Report Card Generator
+## Milestone Project-I (Day 13-15)
+### 1. Student Report Card Generator
 
 - Concepts used: dicts (for storing marks), loops, functions, comparison operators.
 
 - Description: Take input of student marks in multiple subjects → calculate total, average, grade (A/B/C).
 
 - Add a function to compare students and find class topper.
-## 3. Simple Calculator with History
+### 2. Simple Calculator with History
 
 - Concepts used: operators, functions, lists.
 
@@ -121,7 +121,7 @@ Projects for students who are opting for unpaid resources.
 
 - Keep history of calculations in a list, allow user to review or clear history.
 
-## 5. Number Guessing Game (with Levels)
+### 3. Number Guessing Game (with Levels)
 
 - Concepts used: random module, loops, if-else, functions.
 
@@ -130,7 +130,68 @@ Projects for students who are opting for unpaid resources.
 - Add difficulty levels: Easy (1–10), Medium (1–50), Hard (1–100).
 
 - Functions to restart game and track number of attempts.
+### SQL Assignments
+1. Create a Students table, insert records, and practice CRUD operations (select, update, delete).
+2. Create a Sales table, insert sample sales data, and use SUM, AVG, COUNT, MAX with GROUP BY to analyze sales.
+3. Create Employees and Departments tables, then use INNER JOIN, LEFT JOIN, RIGHT JOIN to display employee–department relationships.
 
+## Milestone Project-II (Day 25-29)
+### 1.Quiz Application (OOP-based)
+
+Concepts Used:
+- Question class, Quiz class.
+
+- Separate modules for questions, quiz logic, and results.
+
+- Handle invalid user input with exceptions.
+
+Features:
+
+- Store questions in a list/dict.
+
+- Randomize questions.
+
+- Keep score and show result summary at the end.
+### 2. Hotel Room Booking System
+
+Concepts Used:
+
+- Classes: Room, Customer, Booking.
+
+- Modules: room_management, booking_management.
+
+- Exceptions: Handle “room not available” or “invalid booking date”.
+
+Features:
+
+- Add and view available rooms.
+
+- Book/cancel a room.
+
+- Show all customer bookings.
+## SQL Milestone Project 
+### 1.Python + SQL Milestone Project: College Management System (Day 16-18)
+
+- Build a Python program that connects to an SQL database (Students, Courses, Departments, Enrollments).
+
+- Use SQLite for easy setup.
+
+- Perform CRUD operations (add/update/delete students, courses, departments).
+
+- Run queries with Joins and GroupBy (e.g., average marks per course, dept-wise student count).
+
+- Handle errors with exception handling.
+### 2.Python + SQL Milestone Project: Online Store Database (Day 22-25)
+
+- Create an SQL database for Customers, Products, Orders, and OrderDetails.
+
+- Perform CRUD operations on all tables.
+
+- Use Joins to link customers, orders, and products.
+
+- Apply GroupBy & Aggregates to find total sales, top customers, and best-selling products.
+
+- Run advanced queries like products never ordered or sales per city.
 # Schedule(Paid Courses)
 
 | Day | 1st Hour | 2nd Hour | 3rd Hour |

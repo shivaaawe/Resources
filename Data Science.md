@@ -106,29 +106,30 @@ Note: For students who are opting for unpaid resources should match their topic 
 - In the case of Power Bi- Complete a module within 10 days.
 Projects for students who are opting for unpaid resources.
 ## Milestone Project-I
-1. Student Report Card Generator
+## 1. Student Report Card Generator
 
-Concepts used: dicts (for storing marks), loops, functions, comparison operators.
+- Concepts used: dicts (for storing marks), loops, functions, comparison operators.
 
-Description: Take input of student marks in multiple subjects → calculate total, average, grade (A/B/C).
+- Description: Take input of student marks in multiple subjects → calculate total, average, grade (A/B/C).
 
-Add a function to compare students and find class topper.
-3. Simple Calculator with History
+- Add a function to compare students and find class topper.
+## 3. Simple Calculator with History
 
-Concepts used: operators, functions, lists.
+- Concepts used: operators, functions, lists.
 
-Description: Perform basic arithmetic (+, -, *, /, %).
+- Description: Perform basic arithmetic (+, -, *, /, %).
 
-Keep history of calculations in a list, allow user to review or clear history.
-5. Number Guessing Game (with Levels)
+- Keep history of calculations in a list, allow user to review or clear history.
 
-Concepts used: random module, loops, if-else, functions.
+## 5. Number Guessing Game (with Levels)
 
-Description: Computer picks a random number → user guesses.
+- Concepts used: random module, loops, if-else, functions.
 
-Add difficulty levels: Easy (1–10), Medium (1–50), Hard (1–100).
+- Description: Computer picks a random number → user guesses.
 
-Functions to restart game and track number of attempts.
+- Add difficulty levels: Easy (1–10), Medium (1–50), Hard (1–100).
+
+- Functions to restart game and track number of attempts.
 
 # Schedule(Paid Courses)
 

@@ -7,7 +7,7 @@
 ## Current Mentor Details:
 
 ### Mentor 1:
- 1. Name:  **Shiva Sai Reddy Mikkili (Cybersecurity Mentor — e-DAM / Co-Founder Postdev Infosec, CAPIE, ACP)**
+ 1. Name:  **Shiva Sai Reddy Mikkili (Co-Founder Postdev Infosec, CAPIE, ACP)**
  2. E-Mail: [shiva@postdev.in](mailto:shiva@postdev.in)
  3. LinkedIn: [Shiva Sai Reddy Mikkili](https://linkedin.com/in/theshivasaireddy)
  4. Instagram: [shivaaawe](https://instagram.com/shivaaawe)
@@ -20,13 +20,13 @@
 ## Past Mentor Details:
 
 ### Mentor 1:
- 1. Name:  **Vivekananda Gavini (eJPT, CC)**
+ 1. Name:  **Vivekananda Gavini (Founder Postdev Infosec, eJPT, CC)**
  2. E-Mail: [vivek@edam.tech](mailto:vivek@edam.tech)
  3. LinkedIn: [Vivekananda Gavini](https://linkedin.com/in/thevgavini)
  4. Instagram: [vivekananda_gavini](https://instagram.com/vivekananda_gavini)
 
 ### Mentor 2:
- 1. Name:  **K Sujan Kumar (eJPT, CC)**
+ 1. Name:  **K Sujan Kumar (Co-Founder Postdev Infosec, eJPT, CC)**
  2. E-Mail: [sujan@postdev.in](mailto:sujan@postdev.in)
  3. LinkedIn: [Sujan Kumar](https://www.linkedin.com/in/ksujan/)
  4. Instagram: [sujantkd](https://www.instagram.com/sujantkd/)
@@ -242,3 +242,4 @@ Begin training with free certification courses and prepare for entry-level certi
 - Start a cybersecurity blog or YouTube channel
 - Attend virtual cybersecurity conferences and webinars
 - Consider internships or entry-level positions in cybersecurity
+

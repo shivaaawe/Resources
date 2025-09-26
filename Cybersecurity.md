@@ -4,13 +4,32 @@
 ## <h3> 💯 #100DaysOfCybersecurity </h3>
 <p> This is an intitiation which is for freshers and any person who wishes to learn any technology with a roadmap, resources, practical experience, and guidence/mentorship. </p>
 
-## Mentor Details:
+## Current Mentor Details:
 
- 1. Name:  **Shiva Sai Reddy Mikkili (Cybersecurity Mentor — e-DAM / Postdev Infosec)**
+### Mentor 1:
+ 1. Name:  **Shiva Sai Reddy Mikkili (Cybersecurity Mentor — e-DAM / Co-Founder Postdev Infosec, CAPIE, ACP)**
  2. E-Mail: [shiva@postdev.in](mailto:shiva@postdev.in)
  3. LinkedIn: [Shiva Sai Reddy Mikkili](https://linkedin.com/in/theshivasaireddy)
  4. Instagram: [shivaaawe](https://instagram.com/shivaaawe)
 
+### Mentor 2:
+ 1. Name:  **Varshin Tej Pabba (CC, Cybersecurity Mentor e-DAM)**
+ 2. LinkedIn: [Varshin Tej Pabba](https://www.linkedin.com/in/varshin-tej-pabba-02b315258/)
+ 3. Instagram: [varshin_style](https://www.instagram.com/varshin_style/)
+
+## Past Mentor Details:
+
+### Mentor 1:
+ 1. Name:  **Vivekananda Gavini (eJPT, CC)**
+ 2. E-Mail: [vivek@edam.tech](mailto:vivek@edam.tech)
+ 3. LinkedIn: [Vivekananda Gavini](https://linkedin.com/in/thevgavini)
+ 4. Instagram: [vivekananda_gavini](https://instagram.com/vivekananda_gavini)
+
+### Mentor 2:
+ 1. Name:  **K Sujan Kumar (eJPT, CC)**
+ 2. E-Mail: [sujan@postdev.in](mailto:sujan@postdev.in)
+ 3. LinkedIn: [Sujan Kumar](https://www.linkedin.com/in/ksujan/)
+ 4. Instagram: [sujantkd](https://www.instagram.com/sujantkd/)
 
 ![With Great Power, Comes Great Responsibility!](https://i.imgur.com/kJm7aUG.png)
 
@@ -78,9 +97,6 @@ Python is highly recommended for beginners. The course recommended under the Pre
  Learn the fundamentals of networking, including the OSI model, TCP/IP, and common protocols such as HTTP and HTTPS. You can use resources such as the Network+ certification study guide and the Cisco Networking Academy to learn these concepts.
 
  - Suggested Resources:
-	 - **Updated:** [INE Starter Pass](https://ine.com/pages/cybersecurity) (Free Tier Available)
-		 - Networking Fundamentals courses
-		 - **Note:** INE has transitioned to a subscription model with limited free content
 		
 	 - Read: [Computer Network Tutorial for Beginners - Guru99](https://www.guru99.com/data-communication-computer-network-tutorial.html)
 	 - Watch: [Seven Second Subnetting](https://www.youtube.com/watch?v=ZxAwQB8TZsM&ab_channel=ProfessorMesser)
@@ -94,12 +110,12 @@ Python is highly recommended for beginners. The course recommended under the Pre
  Learn about cybersecurity fundamentals, including common attacks and vulnerabilities, and how to protect against them.
 
  - **Updated Courseware:**
-	 - [SANS Cyber Aces Tutorials](https://cyberaces.org/courses.html) (Free)
-	 - [Cybrary: Introduction to Cybersecurity](https://www.cybrary.it/course/introduction-to-it-and-cybersecurity/)
-	 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
-	 - [CISA Cybersecurity Essentials](https://www.cisa.gov/resources-tools/resources/cybersecurity-essentials-toolkit)
-	 - **Alternative to Great Learning:** [Coursera: Introduction to Cybersecurity Tools & Cyber Attacks](https://www.coursera.org/learn/intro-cyber-security)
-
+	 - [Introduction To Cybersecurity](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security?career_path_id=119)
+	 - [Types of Cybersecurity](https://www.mygreatlearning.com/academy/learn-for-free/courses/types-of-cyber-security?career_path_id=119)
+	 - [Information Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-information-security?career_path_id=119)
+	  - [Cybersecurity Threats](https://www.mygreatlearning.com/academy/learn-for-free/courses/cyber-security-threats?career_path_id=119)
+	  - [Threats and Governance](https://www.mygreatlearning.com/academy/learn-for-free/courses/advanced-cyber-security-threats-and-governance?career_path_id=119)
+	  - [Firewall Basics](https://www.mygreatlearning.com/academy/learn-for-free/courses/firewall?career_path_id=119)
     
 
 ## Days 21-30:
@@ -136,7 +152,7 @@ The penetration testing execution standard consists of seven (7) main sections. 
 
 **Updated Resources:**
 
- - [PortSwigger Web Security Learning Path](https://portswigger.net/web-security/learning-path) (Still Active and Excellent)
+ - [PortSwigger Web Security Learning Path](https://portswigger.net/web-security/learning-path)
  - **New:** [OWASP WebGoat](https://webgoat.github.io/WebGoat/)
  - **New:** [PentesterLab](https://pentesterlab.com/) (Free and Pro tiers)
 
@@ -147,21 +163,21 @@ The penetration testing execution standard consists of seven (7) main sections. 
 Practice your skills by completing online challenges and exercises, such as those offered by HackTheBox and Cybersecurity Ventures.
 
  - **Updated Labs:**
-	 - [TryHackMe](https://tryhackme.com/) (Still Active)
-	 - [Hack The Box](https://www.hackthebox.com/) (Still Active)
-	 - [PortSwigger Web Security](https://portswigger.net/web-security) (Still Active)
-	 - [PentesterLab](https://pentesterlab.com/) (Updated URL)
+	 - [TryHackMe](https://tryhackme.com/)
+	 - [Hack The Box](https://www.hackthebox.com/)
+	 - [PortSwigger Web Security](https://portswigger.net/web-security)
+	 - [PentesterLab](https://pentesterlab.com/)
 	 - **New:** [OverTheWire](https://overthewire.org/wargames/)
 	 - **New:** [VulnHub](https://vulnhub.com/)
 	 
  - **Updated Live Targets:**
-	 - [Acunetix Vulnweb](http://testphp.vulnweb.com/) (Updated URL)
-	 - [OWASP Juice Shop](https://juice-shop.herokuapp.com/) (Still Active)
-	 - **Updated:** [bWAPP](http://www.itsecgames.com/) (New hosting location)
+	 - [Acunetix Vulnweb](http://testphp.vulnweb.com/)
+	 - [OWASP Juice Shop](https://juice-shop.herokuapp.com/)
+	 - **Updated:** [bWAPP](http://www.itsecgames.com/)
 	 - **New:** [DVWA (Damn Vulnerable Web Application)](http://www.dvwa.co.uk/)
 	 
  - **Updated Virtual Machines:**
-	 - [Metasploitable 2](https://sourceforge.net/projects/metasploitable/) (Updated download link)
+	 - [Metasploitable 2](https://sourceforge.net/projects/metasploitable/)
 	 - **New:** [Metasploitable 3](https://github.com/rapid7/metasploitable3)
 	 - **New:** [VulnHub VMs](https://vulnhub.com/)
 
@@ -172,18 +188,18 @@ Practice your skills by completing online challenges and exercises, such as thos
 Put your skills to test by participating in Capture The Flag and Bug Bounty programs.
 
  - **Updated CTF:**
-	 - [picoCTF](https://picoctf.org/) (Still Active)
-	 - [Hacker 101 CTF](https://ctf.hacker101.com/) (Still Active)
-	 - [CTFLearn](https://ctflearn.com/) (Still Active)
+	 - [picoCTF](https://picoctf.org/)
+	 - [Hacker 101 CTF](https://ctf.hacker101.com/)
+	 - [CTFLearn](https://ctflearn.com/)
 	 - **New:** [CTFtime](https://ctftime.org/) (CTF event calendar)
 	 - **New:** [ångstromCTF](https://angstromctf.com/)
 	 
  
  - **Updated Public Bug Bounty Programs:**
  
-	 - [Bugcrowd](https://www.bugcrowd.com/) (Still Active)
-	 - [HackerOne](https://www.hackerone.com/) (Still Active)
-	 - [OpenBugBounty](https://www.openbugbounty.org/) (Still Active)
+	 - [Bugcrowd](https://www.bugcrowd.com/)
+	 - [HackerOne](https://www.hackerone.com/)
+	 - [OpenBugBounty](https://www.openbugbounty.org/)
 	 - **New:** [Intigriti](https://intigriti.com/)
 	 - **New:** [YesWeHack](https://yeswehack.com/)
 
@@ -194,8 +210,8 @@ Put your skills to test by participating in Capture The Flag and Bug Bounty prog
  Learn about System Attacks and Network Based Attacks
 
  - **Updated Resources:**
-	 - [Watch: TCM Beginner Network Penetration Testing](https://youtu.be/WnN6dbos5u8) (Still Active)
-	 - [Watch: Learn Metasploit](https://www.youtube.com/watch?v=8lR27r8Y_ik&list=PLBf0hzazHTGN31ZPTzBbk70bohTYT7HSm&ab_channel=HackerSploit) (Still Active)
+	 - [Watch: TCM Beginner Network Penetration Testing](https://youtu.be/WnN6dbos5u8)
+	 - [Watch: Learn Metasploit](https://www.youtube.com/watch?v=8lR27r8Y_ik&list=PLBf0hzazHTGN31ZPTzBbk70bohTYT7HSm&ab_channel=HackerSploit)
 	 - **New:** [TCM Security Academy](https://academy.tcm-sec.com/) (Paid courses from the same instructor)
 	 - **New:** [IppSec YouTube Channel](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) (HTB Walkthroughs)
 
@@ -203,8 +219,8 @@ Put your skills to test by participating in Capture The Flag and Bug Bounty prog
 Practice your System Attacks and Network Based Attacks by engaging in Black Box Penetration Testing.
 
  - **Updated Resources:**
-	 - [VulnHub](https://vulnhub.com) (Still Active)
-	 - [Hack The Box](https://hackthebox.com) (Still Active)
+	 - [VulnHub](https://vulnhub.com)
+	 - [Hack The Box](https://hackthebox.com)
 	 - **New:** [Proving Grounds](https://portal.offsec.com/labs/play) (Offensive Security Practice Labs)
 	 - **New:** [AttackDefense](https://attackdefense.com/) (Hands-on cybersecurity training)
 

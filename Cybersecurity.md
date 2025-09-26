@@ -20,7 +20,7 @@
 ## Past Mentor Details:
 
 ### Mentor 1:
- 1. Name:  **Vivekananda Gavini (Founder Postdev Infosec, eJPT, CC)**
+ 1. Name:  **Vivekananda Gavini (Security Analyst @Microsoft, Founder Postdev Infosec, eJPT, CC)**
  2. E-Mail: [vivek@edam.tech](mailto:vivek@edam.tech)
  3. LinkedIn: [Vivekananda Gavini](https://linkedin.com/in/thevgavini)
  4. Instagram: [vivekananda_gavini](https://instagram.com/vivekananda_gavini)
@@ -239,5 +239,6 @@ Begin training with free certification courses and prepare for entry-level certi
 - Start a cybersecurity blog or YouTube channel
 - Attend virtual cybersecurity conferences and webinars
 - Consider internships or entry-level positions in cybersecurity
+
 
 

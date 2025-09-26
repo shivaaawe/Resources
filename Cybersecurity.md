@@ -47,9 +47,6 @@ Make sure you put this knowledge to lawful use. Any deviations would lead to sev
 ## Pre-requisites
 Before you move forward with the roadmap, It is highly recommended that you enroll in the following course - [Zero to Mastery: Complete Ethical Hacking Bootcamp](https://www.udemy.com/course/complete-ethical-hacking-bootcamp-zero-to-mastery/) on Udemy. This is a beginner friendly course that costs less than a pizza, and contains everything one would need to get their hands dirty with penetration testing. 
 
-**Alternative Free Resources:**
-- [freeCodeCamp: Ethical Hacking Full Course](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
-- [Cybrary: Introduction to IT & Cybersecurity](https://www.cybrary.it/course/introduction-to-it-and-cybersecurity/)
 
 ## Note Taking
 Taking notes can be a very effective way to organize and consolidate your learning during your preparation to become a penetration tester. 
@@ -242,4 +239,5 @@ Begin training with free certification courses and prepare for entry-level certi
 - Start a cybersecurity blog or YouTube channel
 - Attend virtual cybersecurity conferences and webinars
 - Consider internships or entry-level positions in cybersecurity
+
 

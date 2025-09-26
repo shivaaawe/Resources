@@ -90,7 +90,7 @@ Mini Project → *Graph Traversal Visualizer*
 
 📘 **Final Assignment (Day 100)**: Solve 30 advanced DSA problems across all topics  
 🎯 **Final Milestone**: *Competitive Programming Toolkit & Journal*  
-🏆 **HackerRank Contest**: Winner receives a badge and shoutout from the **E-DAM Team**  
+🏆 **HackerRank Contest**: Winner receives a badge and shoutout from the **e-DAM IARE Team**  
 
 ---
 

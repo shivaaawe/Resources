@@ -7,7 +7,7 @@
 ## Current Mentor Details:
 
 ### Mentor 1:
- 1. Name:  **Shiva Sai Reddy Mikkili (Co-Founder Postdev Infosec, CAPIE, ACP)**
+ 1. Name:  **Shiva Sai Reddy Mikkili (Co-Founder Postdev Infosec, ASCP, CAPIE, ACP)**
  2. E-Mail: [shiva@postdev.in](mailto:shiva@postdev.in)
  3. LinkedIn: [Shiva Sai Reddy Mikkili](https://linkedin.com/in/theshivasaireddy)
  4. Instagram: [shivaaawe](https://instagram.com/shivaaawe)
@@ -239,6 +239,7 @@ Begin training with free certification courses and prepare for entry-level certi
 - Start a cybersecurity blog or YouTube channel
 - Attend virtual cybersecurity conferences and webinars
 - Consider internships or entry-level positions in cybersecurity
+
 
 
 
